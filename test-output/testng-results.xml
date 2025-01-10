@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="9" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-11T00:28:48 AST" name="Default suite" finished-at="2025-01-11T00:29:06 AST" duration-ms="17725">
+    <groups>
+    </groups>
+    <test started-at="2025-01-11T00:28:48 AST" name="Default test" finished-at="2025-01-11T00:29:06 AST" duration-ms="17725">
+      <class name="RaneemTestCase.MainTestCaseAutomationLab">
+        <test-method is-config="true" signature="MySetup()[pri:0, instance:RaneemTestCase.MainTestCaseAutomationLab@604f2bd2]" started-at="2025-01-11T00:28:48 AST" name="MySetup" finished-at="2025-01-11T00:29:02 AST" duration-ms="13387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySetup -->
+        <test-method signature="Element_Displayed_Example()[pri:9, instance:RaneemTestCase.MainTestCaseAutomationLab@604f2bd2]" started-at="2025-01-11T00:29:02 AST" name="Element_Displayed_Example" description="this is to test hide and show buttons" finished-at="2025-01-11T00:29:06 AST" duration-ms="4300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Element_Displayed_Example -->
+      </class> <!-- RaneemTestCase.MainTestCaseAutomationLab -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
